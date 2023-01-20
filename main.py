@@ -33,6 +33,6 @@ for person in top_heavyweight_names_wrecords_list:
     name = name_record[0]
     record = name_record[1]
     print(name)
-    # print(f'{name_record[0]} heeft een record van: {name_record[1]}')
+    print(f'{name_record[0]} heeft een record van: {name_record[1]}')
 
 driver.quit()
